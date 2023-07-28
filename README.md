@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3>Hello, I`m Yaroslav</h3>
+  <h3>Hello, I`m Suslov Yaroslav</h3>
   <br>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
